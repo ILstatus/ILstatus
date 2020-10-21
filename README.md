@@ -1,4 +1,4 @@
-![Header](https://github.com/ILstatus/ILstatus/blob/main/assets/genos.jfif)
+<img src="https://github.com/ILstatus/ILstatus/blob/main/assets/genos.jfif" style="zoom:200%;">
 ### Hi there 👋
 
 <!--
