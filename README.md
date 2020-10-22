@@ -1,4 +1,4 @@
-<img src="https://github.com/ILstatus/ILstatus/blob/main/assets/genos.jfif" style="zoom:200%;">
+<img src="https://github.com/ILstatus/ILstatus/blob/main/assets/image-genos-2.png" style="zoom:200%;">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ILstatus&show_icons=true)]()
 
