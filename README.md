@@ -9,7 +9,7 @@
 - 😄 Pronouns: not yet
 - ⚡ Fun fact: not yet
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ILstatus&show_icons=true)]()
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ILstatus&show_icons=true)]()-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILstatus)]()
 
