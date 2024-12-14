@@ -1,4 +1,3 @@
-<img src="https://github.com/ILstatus/ILstatus/blob/main/assets/image-genos-2.png" style="zoom:200%;">
 <h3>Hi there 👋</h3>
 <strong>Hi! I'm ILstatus. A beginner's front of the little white.</strong>
 <div style="display: flex; justify-content: flex-start;align-items:flex-end">
